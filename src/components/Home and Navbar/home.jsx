@@ -46,12 +46,12 @@ const Home = () => {
             <div className="home-content-main">
               <div className="home-logo">
                 Stake your tokens and let the interest of the staked money pay
-                for your Investorage
+                for your storage
               </div>
               <div className="home-content">
-                Investorage aims to become a medium of revolutionary DeFi where
+                Investorage aims to become a medium of DeFi where
                 a user can stake some amount of tokens in a pool and gain not
-                just interest for the staked tokens but a provider of their
+                just interest for the staked tokens but a storage deal of their
                 choice too
               </div>
               <div className="home-button-div" style={{ cursor: "pointer" }}>
@@ -86,7 +86,7 @@ const Home = () => {
 
           <img className="home-btm-box2" src={Asset2} />
           <div className="home-btm-text">
-            Let your Interest of your staked money pay for your Investorage.
+            Let your Interest of your staked money pay for your storage.
             <br></br>
             <br></br>
             Get your staked money back in a year.
